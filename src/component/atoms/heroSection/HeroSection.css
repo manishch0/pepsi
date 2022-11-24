@@ -1,0 +1,9 @@
+@media (min-width: 786px) {
+  .hero-section {
+    display: block;
+    background: url("../../../assets/shopbackground.webp") no-repeat center;
+    height: 75vh;
+    width: 100%;
+    object-fit: cover;
+  }
+}
